@@ -636,6 +636,9 @@ footer{
     .run-1{
         width: 85%;
     } 
+    #join-btn{
+        width: 100%;
+    }
     .run-1 h2{
         font-size: 2.5rem;
     }
